@@ -32,7 +32,7 @@ export function Navbar() {
             scrolled ? 'glass' : ''
           }`}
         >
-          <span className="grid h-8 w-8 place-items-center rounded-lg bg-gradient-to-br from-steel-400 to-steel-700 font-display text-sm font-bold text-white shadow-glow">
+          <span className="grid h-14 w-14 place-items-center rounded-lg bg-gradient-to-br from-steel-400 to-steel-700 font-display text-sm font-bold text-white shadow-glow">
             <img src="/mohamed-helika-portfolio/assets/profile/logo.png"
   alt="Mohamed Helika Logo"
   className="h-14 w-14 object-contain"
