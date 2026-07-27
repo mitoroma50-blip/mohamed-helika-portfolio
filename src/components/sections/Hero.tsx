@@ -104,7 +104,7 @@ export function Hero() {
         >
         <div className="relative">
   <img
-    src="/assets/profile/profile.jpg"
+   src="/mohamed-helika-portfolio/assets/profile/profile.jpg"
     alt="Mohamed Helika"
     className="rounded-3xl border border-white/20 shadow-glow-lg"
   />
